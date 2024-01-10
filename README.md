@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Thi![Screenshot 2024-01-10 172325](https://github.com/Anubhav710/anime-website/assets/100343499/fdac060d-b74d-4fb4-9c47-cc5d2cc66fdb)
+s is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Screenshot 2024-01-10 172258](https://github.com/Anubhav710/anime-website/assets/100343499/d7a5e421-64df-4d64-8a3c-edec8bb9ade4)
 
 ## Getting Started
 
